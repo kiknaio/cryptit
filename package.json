@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Node.js based script that will encrypt and decrypt any type of files",
   "main": "cryptit.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kiknag/cryptit.git"
