@@ -1,6 +1,6 @@
 {
   "name": "cryptit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js based script that will encrypt and decrypt any type of files",
   "main": "cryptit.js",
   "repository": {
